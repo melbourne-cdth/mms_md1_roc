@@ -1,0 +1,15 @@
+name: cdth-sdt
+channels:
+  - defaults
+  - pyviz
+dependencies:
+  - python=3.8
+  - jupyter
+  - numpy
+  - pandas
+  - hvplot
+  - holoviews
+  - Jinja2
+  - param
+  - scipy
+
